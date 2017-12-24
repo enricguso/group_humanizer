@@ -1,6 +1,0 @@
-#N canvas 4 23 1280 728 10;
-#X obj 3 -203 group_humanizer;
-#X text 1090 276 Mean error of all musicians;
-#X text 1081 547 Maximum difference between musicians;
-#X text 1094 -60 When Mean error is higher than this threshold \, a
-metronome is sent to each channel., f 29;
