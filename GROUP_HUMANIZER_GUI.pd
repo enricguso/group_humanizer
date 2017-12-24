@@ -1,0 +1,4 @@
+#N canvas 0 23 1280 728 10;
+#X obj -2 -204 group_humanizer;
+#X text 1090 276 Mean error of all musicians;
+#X text 1081 547 comment;
